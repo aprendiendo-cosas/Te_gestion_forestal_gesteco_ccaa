@@ -1,4 +1,4 @@
-# Manejo de bosques
+# Gestión forestal
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
 > + **_Versión_**: 2025-2026
@@ -6,7 +6,7 @@
 > + **_Autor_**: Alumnos encargados de este tema, Curro Bonet-García (fjbonet@uco.es), IA Gemini.
 > + **Duración**: Una hora
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025_2026/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025-2026/imagenes/portada.jpg)
 
 ---
 
@@ -120,13 +120,13 @@ Para alcanzar este propósito integral, la gestión forestal persigue una serie 
 
 
 
-![monofuncional1](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025_2026/imagenes/monofuncional1.png)
+![monofuncional1](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025-2026/imagenes/monofuncional1.png)
 
 **El aspecto de estas explotaciones es parecido al que se muestra en la siguiente imagen.**
 
 
 
-![monofuncional2](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025_2026/imagenes/monofuncional2.png)
+![monofuncional2](https://raw.githubusercontent.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/2025-2026/imagenes/monofuncional2.png)
 
 **Este tipo de explotaciones monofuncionales aportan aproximadamente la mitad de la producción de madera a escala global. El resto se obtiene de bosques naturales. Desde este punto de vista podemos considerar que la selvicultura monofuncional alivia la presión sobre los bosques naturales. Aunque esto no considera que, probablemente, las explotaciones monofuncionales están donde antes había un bosque mucho más diverso.**
 
@@ -327,7 +327,7 @@ Además de este reto genérico, también existen los siguientes más concretos:
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_gestion_forestal_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
